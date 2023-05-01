@@ -1,0 +1,16 @@
+
+ ## Software ##
+
+ 1. VS Code
+ 2. STM Cube IDE
+ 
+ ## Hardware ##
+ 
+ 1. STM32F407
+ 2. ADC 
+ 3. Sensors
+ 
+ ## Description ##
+ 
+ 
+ 

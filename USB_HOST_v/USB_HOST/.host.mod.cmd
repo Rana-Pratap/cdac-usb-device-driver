@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/host.mod := { echo  /home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/host.o;  echo; } > /home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/host.mod

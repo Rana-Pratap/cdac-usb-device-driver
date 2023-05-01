@@ -1,0 +1,6 @@
+
+www.usb.org ---> all documentations
+
+ usb analyzer.
+
+ Bitrate --> 480 MB (high speed) for STM32 Board.

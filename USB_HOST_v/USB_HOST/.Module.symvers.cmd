@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/Module.symvers := sed 's/ko$$/o/' /home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/modules.order | scripts/mod/modpost -m -a   -o /home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/Module.symvers -e -i Module.symvers   -T -

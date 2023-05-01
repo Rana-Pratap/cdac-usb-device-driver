@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/modules.order := {   echo /home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/host.ko; :; } | awk '!x[$$0]++' - > /home/sunbeam/DESD/Project/usb_device_driver/USB_HOST_v/USB_HOST/modules.order
